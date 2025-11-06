@@ -6,7 +6,7 @@ int my_strlen(const char* s) {
         a++;
         s++;
     }
-    return l;
+    return a;
 }
 int main() {
     string s1 = "wedgfjk fnerjtk";
